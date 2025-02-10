@@ -1,12 +1,11 @@
 # Algoritmos y Estructuras de Datos III
 
-Este repositorio consta del material bibliografico y ejercicios de la materia Algoritmos y Estructuras de Datos III (Facultad de Ciencias Exactas UBA)
+Este repositorio consta del material bibliografico y ejercicios de la materia Algoritmos y Estructuras de Datos III (Facultad de Ciencias Exactas UBA) o Tecnica de Diseño de Algoritmos.
 
 # Tareas 
 
-- [ ] Descargar C++
+- [X] Descargar C++
 - [ ] Armar folder de TPs
-- [ ] Agregar Cormen
 
 
 ## Teoricas
